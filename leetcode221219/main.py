@@ -1,16 +1,18 @@
-# This is a sample Python script.
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+# ** Case 1
+# * Input: nums = [1,2,1]
+# * Output: [1,2,1,1,2,1]
 
+# ** Case 2
+# * Input: nums = [1,3,2,1]
+# * Output: [1,3,2,1,1,3,2,1]
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+class Solution:
+    def getConcatenation(self, nums: List[int]) -> List[int]:
+        result = []
+        for i in range(2):
+            for j in nums:
+                result.append(j)
+        return result
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    
