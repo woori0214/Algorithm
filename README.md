@@ -7,3 +7,4 @@
 ### <04> 22.12.23 leetcode : 859. Buddy Strings
 ### <05> 22.12.26 leetcode : 70. Climbing Stairs
 ### <06> 22.12.27 programmers : 나머지가 1이 되는 수
+### <07> 23.01.09 leetcoe : 2255. Count Prefixes of a Given String
