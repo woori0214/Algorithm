@@ -8,4 +8,5 @@
 ### <05> 22.12.26 leetcode : [70. Climbing Stairs](https://github.com/woori0214/Algorithm/tree/main/leetcode221226)
 ### <06> 22.12.27 programmers : [나머지가 1이 되는 수](https://github.com/woori0214/Algorithm/tree/main/programmers221227)
 ### <07> 23.01.09 leetcoe : [2255. Count Prefixes of a Given String](https://github.com/woori0214/Algorithm/tree/main/programmers230110)
+### <08> 23.01.18 swea : [1288. 새로운 불면증 치료법](https://github.com/woori0214/Algorithm/tree/main/swea230118)
 ### <08> 23.02.02 baekjoon : [182258. 큐2](https://github.com/woori0214/Algorithm/tree/main/baekjoon230202)
