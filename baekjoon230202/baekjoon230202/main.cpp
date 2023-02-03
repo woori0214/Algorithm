@@ -55,28 +55,28 @@ int main(int argc, const char * argv[]) {
         
         else if(str == "pop"){
             if (!queue.empty()){
-                cout << queue.front() << endl;
+                cout << queue.front() << '\n';
                 queue.pop();
             }
-            else cout << -1 << endl;
+            else cout << -1 << '\n';
         }
         
         else if(str == "size"){
-            cout << queue.size() << endl;
+            cout << queue.size() << '\n';
         }
         
         else if(str == "empty"){
-            cout << queue.empty() << endl;
+            cout << queue.empty() << '\n';
         }
         
         else if(str == "front"){
-            if(!queue.empty()) cout << queue.front() << endl;
-            else cout << -1 << endl;
+            if(!queue.empty()) cout << queue.front() << '\n';
+            else cout << -1 << '\n';
         }
         
         else if(str == "back"){
-            if (!queue.empty()) cout << -1 << endl;
-            else cout << queue.back() << endl;
+            if(!queue.empty()) cout << queue.back() << '\n';
+            else cout << -1 << '\n';
         }
     }
 }
