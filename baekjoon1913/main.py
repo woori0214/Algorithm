@@ -13,7 +13,7 @@
 # dir = 0 # dr,dc를 돌릴 방향
 # moveCnt = 1 # 이동 횟수
 # maxMoveCnt = 1
-#
+#b19
 # data = 1 # 달팽이 관을 돌리면서 넣을 값
 # dirCnt = 0
 #
