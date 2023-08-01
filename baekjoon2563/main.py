@@ -12,7 +12,7 @@ def square(graph):
             if box[x][y] >= 1:
                 count += 1
     answer = count
-    
+
 N = int(input())
 graph = []
 
